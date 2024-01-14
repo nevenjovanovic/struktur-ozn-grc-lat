@@ -2,6 +2,8 @@
 
 Označavamo valencije u tekstovima i podatke o autorima i djelima. Građa dostupna pod licencom [CC-BY](LICENSE.md).
 
+[![DOI](https://zenodo.org/badge/743261097.svg)](https://zenodo.org/doi/10.5281/zenodo.10511409)
+
 # Označeni tekstovi
 
 Vidi direktorij XML i direktorij WD.
