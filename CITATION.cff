@@ -1,9 +1,10 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
 message: "If you use this collection of scripts and data, please cite it as below."
 authors:
   - family-names: Jovanovic
     given-names: Neven
     orcid: "https://orcid.org/0000-0002-9119-399X"
-title: nevenjovanovic/struktur-ozn-grc-lat: Strukturirano oznacavanje grckih i latinskih tekstova
-version: v1.0.0
+title: "nevenjovanovic/struktur-ozn-grc-lat: Strukturirano oznacavanje grckih i latinskih tekstova"
+version: v0.1-alpha
 date-released: 2024-01-14
+url: "https://github.com/nevenjovanovic/struktur-ozn-grc-lat"
