@@ -1,0 +1,116 @@
+<text author="Herodotus" work="Historiae" locus="1.77" sentence="12">
+	<verb n="1" form="Ἀρτοφαγέουσι" lemma="άρτοφαγέω" morf="v3ppia---" lex="___" dist="main" expl="fin" val="1">
+		<arg form="0" lemma="Αἰγύπτιοι" morf="n-p---mn-" type="subs" synt="SBJ" sem="___"/>
+	</verb>
+	<verb n="2" form="ποιεῦντες" lemma="ποιέω" morf="v-pp-amn-" lex="___" dist="sub" expl="part" val="2">
+		<arg form="ἄρτους" lemma="ἄρτος" morf="n-p---ma-" type="subs" synt="OBJ" sem="___"/>
+		<arg form="0" lemma="Αἰγύπτιος" morf="n-p---mn-" type="subs" synt="SBJ" sem="___"/>
+	</verb>
+	<verb n="3" form="ὀνομάζουσι" lemma="ὀνομάζω" morf="v3ppia---" lex="___" dist="sub" expl="fin" val="3">
+		<arg form="ἐκεῖνοι" lemma="ἐκεῖνος" morf="p-p---mn-" type="pron" synt="SBJ" sem="___"/>
+		<arg form="τοὺς" lemma="ὁ" morf="p-p---ma-" type="pron" synt="OBJ" sem="___"/>
+		<arg form="κυλλήστις" lemma="κυλλήστις" morf="n-s---mn-" type="subs" synt="OCOMP" sem="___"/>
+	</verb>
+</text>
+<text author="Herodotus" work="Historiae" locus="2.77" sentence="13">
+	<verb n="1" form="διαχρέωνται" lemma="διαχράομαι" morf="v3ppie---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="0" lemma="Αιγύπτιος" morf="n-p---mn-" type="subs" synt="SBJ" sem="___"/>
+		<arg form="
+			οἴνῳ" lemma="οἶνος" morf="n-s---md-" type="subs" synt="OBJ" sem="___"/>
+	</verb>
+</text>
+<text author="Herodotus" work="Historiae" locus="2.77" sentence="14">
+	<verb n="2" form="εἰσι" lemma="εἰμί" morf="v3ppia---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="ἄμπελοι" lemma="ἄμπελος" morf="n-p---mn-" type="subs" synt="SBJ" sem="___"/>
+		<arg form="σφί" lemma="σφεῖς" morf="p-p---md-" type="pron" synt="OBJ" sem="___"/>
+	</verb>
+</text>
+<text author="Herodotus" work="Historiae" locus="2.77" sentence="15">
+	<verb n="1" form="αὐήναντες" lemma="αὐαίνω " morf="v-pa-amn-" lex="___" dist="sub" expl="part" val="2">
+		<arg form="0" lemma="Αἰγύπτιος" morf="n-p---mn-" type="subs" synt="SBJ" sem="___"/>
+		<arg form="τοὺς" lemma="οἱ" morf="p-p---ma-" type="pron" synt="OBJ" sem="___"/>
+	</verb>
+	<verb n="2" form="σιτέονται" lemma="σιτέομαι" morf="v3ppie---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="0" lemma="Αἰγύπτιος" morf="n-p---mn-" type="subs" synt="SBJ" sem="___"/>
+		<arg form="τοὺς (ὄρνιθας)" lemma="ὄρνις" morf="n-p---ma-" type="subs" synt="OBJ" sem="___"/>
+	</verb>
+</text>
+<text author="Herodotus" work="Historiae" locus="2.77" sentence="16">
+	<verb n="1" form="σιτέονται" lemma="σιτέομαι" morf="v3ppie---" lex="___" dist="main" expl="fin" val="3">
+		<arg form="0" lemma="Αἰγύπτιος" morf="n-p---mn-" type="subs" synt="SBJ" sem="___"/>
+		<arg form="ὄρτυγας" lemma="ὄρτυξ" morf="n-p---ma-" type="subs" synt="OBJ" sem="___"/>
+		<arg form="νήσσας" lemma="νῆττα" morf="n-p---fa-" type="subs" synt="OBJ" sem="___"/>
+		<arg form="τὰ " lemma="οἱ" morf="p-p---na-" type="pron" synt="OBJ" sem="___"/>
+		<arg form="ὠμά" lemma="ὠμός" morf="a-p---na-" type="adj" synt="OCOMP" sem="___"/>
+	</verb>
+</text>
+<text author="Herodotus" work="Historiae" locus="2.77" sentence="17">
+	<verb n="1" form="ἐστι ἐχόμενα" lemma="ἔχω" morf="v3ppip---" lex="___" dist="sub" expl="fin" val="2">
+		<arg form="ὅσα" lemma="ὅσος" morf="n-p---nn-" type="subs" synt="SBJ" sem="___"/>
+		<arg form="σφί" lemma="σφεῖς" morf="p-p---md-" type="pron" synt="OBJ" sem="___"/>
+	</verb>
+	<verb n="2" form="ἀποδεδέχαται" lemma="ἀποδέχομαι" morf="v3prip---" lex="___" dist="sub" expl="fin" val="3">
+		<arg form="σφί" lemma="σφεῖς" morf="p-p---md-" type="pron" synt="OBJ" sem="___"/>
+		<arg form="ὁκόσοι" lemma="ὁπόσος" morf="p-p---mn-" type="pron" synt="SBJ" sem="___"/>
+		<arg form="ἱροί" lemma="ἱερός" morf="a-p---mn-" type="adj" synt="PNOM" sem="___"/>
+	</verb>
+	<verb n="3" form="σιτέονται" lemma="σιτέομαι" morf="v3ppie---" lex="___" dist="main" expl="fin" val="3">
+		<arg form="0" lemma="Αἰγύπτιος" morf="n-p---mn-" type="subs" synt="SBJ" sem="___"/>
+		<arg form="τοὺς" lemma="οἱ" morf="p-p---ma-" type="pron" synt="OBJ" sem="___"/>
+		<arg form="ὀπτοὺς" lemma="ὀπτός" morf="a-p---ma-" type="adj" synt="OCOMP" sem="___"/>
+		<arg form="ἑφθοὺς" lemma="ἑφθός" morf="a-p---ma-" type="adj" synt="OCOMP" sem="___"/>
+	</verb>
+</text>
+<text author="Herodotus" work="Historiae" locus="2.77" sentence="18">
+	<verb n="1" form="γένωνται" lemma="γίγνομαι" morf="v3pase---" lex="___" dist="sub" expl="fin" val="2">
+		<arg form="0" lemma="Αἰγύπτιος" morf="n-p---mn-" type="subs" synt="SBJ" sem="___"/>
+		<arg form="ἀπὸ δείπνου" lemma="ἀπό" morf="r--------" type="prp" synt="PNOM" sem="___"/>
+	</verb>
+	<verb n="2" form="περιφέρει" lemma="περιφέρω" morf="v3spia---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="ἀνήρ" lemma="ἀνήρ" morf="n-s---mn-" type="subs" synt="SBJ" sem="___"/>
+		<arg form="νεκρόν" lemma="νεκρός" morf="n-s---ma-" type="subs" synt="OBJ" sem="___"/>
+	</verb>
+	<verb n="3" form="πεποιημένον" lemma="ποιέω" morf="v-sr-pma-" lex="___" dist="sub" expl="part" val="0">
+		<arg form="0" lemma="νεκρός" morf="n-s---ma-" type="subs" synt="SBJ" sem="___"/>
+		<arg form="ξύλινον" lemma="ξύλινος" morf="a-s---ma-" type="adj" synt="OCOMP" sem="___"/>
+	</verb>
+	<verb n="4" form="μεμιμημένον" lemma="μιμέομαι" morf="v-sr-ema-" lex="___" dist="sub" expl="part" val="0">
+		<arg form="0" lemma="νεκρός" morf="n-s---ma-" type="subs" synt="SBJ" sem="___"/>
+	</verb>
+	<verb n="5" form="δεικνύς" lemma="δείκνυμι" morf="v-sp-amn-" lex="___" dist="main" expl="part" val="3">
+		<arg form="0" lemma="ἀνήρ" morf="n-s---mn-" type="subs" synt="SBJ" sem="___"/>
+		<arg form="0" lemma="νεκρός" morf="n-s---ma-" type="subs" synt="OBJ" sem="___"/>
+		<arg form="ἑκάστῳ" lemma="ἕκαστος" morf="a-s---md-" type="adj" synt="OBJ" sem="___"/>
+	</verb>
+	<verb n="6" form="λέγει" lemma="λέγω" morf="v3spia---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="0" lemma="ἀνήρ" morf="n-s---mn-" type="subs" synt="SBJ" sem="___"/>
+		<arg form="ἑκάστῳ" lemma="ἕκαστος" morf="a-s---md-" type="adj" synt="OBJ" sem="___"/>
+	</verb>
+</text>
+<text author="Herodotus" work="Historiae" locus="2.77" sentence="19">
+	<verb n="1" form="ὁρέων" lemma="ὁράω" morf="v-sr-amn-" lex="___" dist="sub" expl="part" val="2">
+		<arg form="ἐς τοῦτον" lemma="εἰς" morf="r--------" type="prp" synt="OBJ" sem="___"/>
+		<arg form="0" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+	</verb>
+	<verb n="2" form="πίνε" lemma="πίνω" morf="v2spma---" lex="___" dist="main" expl="fin" val="1">
+		<arg form="0" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+	</verb>
+	<verb n="3" form="τέρπεο" lemma="τέρπω" morf="v2spmm---" lex="___" dist="main" expl="fin" val="1">
+		<arg form="0" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+	</verb>
+</text>
+<text author="Herodotus" work="Historiae" locus="2.77" sentence="20">
+	<verb n="1" form="ἔσεαι" lemma="εἰμί" morf="v2sfie---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="0" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+		<arg form="τοιοῦτος" lemma="τοιοῦτος" morf="p-s---mn-" type="pron" synt="PNOM" sem="___"/>
+	</verb>
+	<verb n="2" form="ἀποθανών" lemma="ἀποθνῄσκω" morf="v-sa-amn-" lex="___" dist="sub" expl="part" val="1">
+		<arg form="0" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+	</verb>
+</text>
+<text author="Herodotus" work="Historiae" locus="2.77" sentence="21">
+	<verb n="1" form="ποιεῦσι" lemma="ποιέω" morf="v3ppia---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="0" lemma="Αἰγύπτιος" morf="n-s---mn-" type="subs" synt="SBJ" sem="___"/>
+		<arg form="ταῦτα" lemma="οὗτος" morf="p-p---na-" type="pron" synt="OBJ" sem="___"/>
+	</verb>
+</text>

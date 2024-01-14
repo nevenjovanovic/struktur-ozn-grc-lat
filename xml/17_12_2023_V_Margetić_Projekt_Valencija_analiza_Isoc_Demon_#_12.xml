@@ -1,0 +1,161 @@
+<text author="Isokrat" work="Demoniku" locus="16" sentence="1">
+	<verb n="1" form="ποιήσας" lemma="ποιέω" morf="v-sa-amn-" lex="___" dist="sub" expl="part" val="2">
+		<arg form="μηδὲν" lemma="μηδείς" morf="p-s---na-" type="pron" synt="OBJ" sem="___"/>
+		<arg form="αἰσχρὸν" lemma="αἰσχρός" morf="a-s---na-" type="adj" synt="OBJ" sem="___"/>
+	</verb>
+	<verb n="2" form="ἒλπιζε" lemma="ἐλπίζω" morf="v2spma---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="λήσειν" lemma="λανθάνω" morf="v--f-a---" type="ACI" synt="OBJ" sem="___"/>
+	</verb>
+	<verb n="3" form="λήσειν" lemma="λανθάνω" morf="v--f-a---" lex="___" dist="sub" expl="inf" val="1">
+		<arg form="imp" lemma="σύ" morf="p-s---ma-" type="pron" synt="SBJ" sem="___"/>
+	</verb>
+	<verb n="4" form="λάθῃς" lemma="λανθάνω" morf="v2sasa---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="imp" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+		<arg form="ἂν" lemma="ἂν" morf="c--------" type="clause" synt="AuxC" sem="___"/>
+		<arg form="τοὺς ἂλλους" lemma="ἂλλος" morf="p-p---ma-" type="pron" synt="OBJ" sem="___"/>
+	</verb>
+	<verb n="5" form="συνειδήσεις" lemma="σύνοιδα" morf="v2pfia---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="imp" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+		<arg form="σεαυτω" lemma="σεαυτοῦ" morf="p-s---md-" type="pron" synt="OBJ" sem="___"/>
+	</verb>
+</text>
+<text author="Isokrat" work="Demoniku" locus="16" sentence="2">
+	<verb n="1" form="φοβοῦ" lemma="φοβέομαι" morf="v2spmm---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="τοὺς θεοὺς" lemma="θεός" morf="n-p---ma-" type="subs" synt="OBJ" sem="___"/>
+	</verb>
+	<verb n="2" form="τίμα" lemma="τιμάω" morf="v2spma---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="τοὺς γονεῖς" lemma="γονεύς" morf="n-p---ma-" type="subs" synt="OBJ" sem="___"/>
+	</verb>
+	<verb n="3" form="αἰσχύνου" lemma="αἰσχύνομαι" morf="v2spme---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="τοὺς φίλους" lemma="φίλος" morf="n-p---ma-" type="subs" synt="OBJ" sem="___"/>
+	</verb>
+	<verb n="4" form="πείθου" lemma="πείθομαι" morf="v2spme---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="τοῖς νόμοις" lemma="νόμος" morf="n-p---md-" type="subs" synt="OBJ" sem="___"/>
+	</verb>
+</text>
+<text author="Isokrat" work="Demoniku" locus="16" sentence="3">
+	<verb n="1" form="θήρευε" lemma="θηερεύω" morf="v2spma---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="τὰς ἡδονὰς" lemma="ἡδονή" morf="n-s---fa-" type="subs" synt="OBJ" sem="___"/>
+	</verb>
+	<verb n="2" form="imp" lemma="εἰμί" morf="v3spia---" lex="___" dist="main" expl="fin" val="1">
+		<arg form="ἂριστον" lemma="ἀγαθός" morf="a-s---nns" type="adj" synt="PNOM" sem="___"/>
+	</verb>
+	<verb n="3" form="imp" lemma="εἰμί" morf="v3spia---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="κάκιστον" lemma="κακός" morf="a-s---nns" type="adj" synt="PNOM" sem="___"/>
+		<arg form="imp" lemma="πρᾶγμα" morf="n-s---nn-" type="subs" synt="SBJ" sem="___"/>
+	</verb>
+</text>
+<text author="Isokrat" work="Demoniku" locus="17" sentence="4">
+	<verb n="1" form="εὐλαβοῦ" lemma="εὐλαβέομαι" morf="v2spme---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="τὰς διαβολὰς" lemma="διαβολά" morf="n-p---fa-" type="subs" synt="OBJ" sem="___"/>
+	</verb>
+	<verb n="2" form="ὦσιν" lemma="εἰμί" morf="v3ppsa---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="κἂν" lemma="κἂν" morf="c--------" type="clause" synt="AuxC" sem="___"/>
+		<arg form="ψευδεῖς" lemma="ψευδής" morf="a-p---fn-" type="adj" synt="PNOM" sem="___"/>
+	</verb>
+	<verb n="3" form="ἀγνοοῦσιν" lemma="ἀγνοέω" morf="v3ppia---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="τὴν ἀλήθειαν" lemma="ἀλήθεια" morf="n-s---fa-" type="subs" synt="OBJ" sem="___"/>
+		<arg form="οἱ πολλοί" lemma="πολύς" morf="p-p---mn-" type="pron" synt="SBJ" sem="___"/>
+	</verb>
+	<verb n="4" form="ἀποβλέπτουσιν" lemma="ἀποβλέπω" morf="v3ppia---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="πρὸς" lemma="πρός" morf="r--------" type="prp" synt="AuxP" sem="___"/>
+		<arg form="τὴν δόξαν" lemma="δόξα" morf="n-s---fa-" type="subs" synt="OBJ" sem="___"/>
+	</verb>
+</text>
+<text author="Isokrat" work="Demoniku" locus="17" sentence="5">
+	<verb n="1" form="δόκει" lemma="δοκέω" morf="v2spma---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="ποιεῖν" lemma="ποιέω" morf="v--p-a---" type="ACI" synt="OBJ" sem="___"/>
+	</verb>
+	<verb n="2" form="ποιεῖν" lemma="ποιέω" morf="v--p-a---" lex="___" dist="sub" expl="inf" val="2">
+		<arg form="ἃπαντα" lemma="ἃπας" morf="p-p---na-" type="pron" synt="OBJ" sem="___"/>
+		<arg form="imp" lemma="σύ" morf="p-s---ma-" type="pron" synt="SBJ" sem="___"/>
+	</verb>
+	<verb n="3" form="λήσων" lemma="λανθάνω" morf="v-sf-amn-" lex="___" dist="sub" expl="part" val="1">
+		<arg form="ὡς" lemma="ὡς" morf="c--------" type="clause" synt="AuxC" sem="___"/>
+		<arg form="μηδένα" lemma="μηδείς" morf="p-s---ma-" type="pron" synt="OBJ" sem="___"/>
+	</verb>
+	<verb n="4" form="κρύψῃς" lemma="κρύπτω" morf="v2sasa---" lex="___" dist="sub" expl="fin" val="1">
+		<arg form="ἂν" lemma="ἂν" morf="c--------" type="clause" synt="AuxC" sem="___"/>
+		<arg form="imp" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+	</verb>
+	<verb n="5" form="ὀφθήσει" lemma="ὁράω" morf="v2sfip---" lex="___" dist="main" expl="fin" val="1">
+		<arg form="imp" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+	</verb>
+</text>
+
+<text author="Isokrat" work="Demoniku" locus="17" sentence="6">
+	<verb n="1" form="εὐδοκιμοίης" lemma="εὐδοκιμέω" morf="v2spoa---" lex="___" dist="main" expl="fin" val="1">
+		<arg form="ἂν" lemma="ἂν" morf="c--------" type="clause" synt="AuxC" sem="___"/>
+		<arg form="imp" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+	</verb>
+	<verb n="2" form="φαίνοιο" lemma="φαίνομαι" morf="v2spoa---" lex="___" dist="sub" expl="fin" val="2">
+		<arg form="εἰ" lemma="εἰ" morf="c--------" type="clause" synt="AuxC" sem="___"/>
+		<arg form="imp" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+		<arg form="πράττων" lemma="πράττω" morf="v-sp-amn-" type="ptc" synt="PNOM" sem="___"/>
+		<arg form="imp" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+	</verb>
+	<verb n="3" form="πράττων" lemma="πράττω" morf="v-sp-amn-" lex="___" dist="sub" expl="part" val="1">
+		<arg form="ταῦτα" lemma="οὗτος" morf="p-p---na-" type="pron" synt="OBJ" sem="___"/>
+		<arg form="μή" lemma="μή" morf="c--------" type="clause" synt="AuxY" sem="___"/>
+	</verb>
+	<verb n="4" form="ἐπιτιμῳμης" lemma="ἐπιτιμάω" morf="v2spoa---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="τοῖς ἂλλοις" lemma="ἂλλος" morf="p-p---md-" type="pron" synt="OBJ" sem="___"/>
+		<arg form="imp" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+		<arg form="πράττουσιν" lemma="πράττω" morf="v-pp-amd-" type="ptc" synt="OBJ" sem="___"/>
+	</verb>
+	<verb n="5" form="πράττουσιν" lemma="πράττω" morf="v-pp-amd-" lex="___" dist="sub" expl="part" val="1">
+		<arg form="ἂν" lemma="ἂν" morf="c--------" type="clause" synt="AuxC" sem="___"/>
+		<arg form="ἃ" lemma="ὃς" morf="p-p---na-" type="pron" synt="OBJ" sem="___"/>
+	</verb>
+</text>
+<text author="Isokrat" work="Demoniku" locus="18" sentence="7">
+	<verb n="1" form="ᾖς" lemma="εἰμί" morf="v2spsa---" lex="___" dist="sub" expl="fin" val="2">
+		<arg form="Ἐάν" lemma="ἐάν" morf="c--------" type="clause" synt="AuxC" sem="___"/>
+		<arg form="φιλομαθὴς" lemma="φιλομαθής" morf="a-s---mn-" type="adj" synt="PNOM" sem="___"/>
+		<arg form="imp" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+	</verb>
+	<verb n="2" form="ἒσει" lemma="εἰμί" morf="v2sfim---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="πολυμαθής" lemma="πολυμαθής" morf="a-s---mn-" type="adj" synt="PNOM" sem="___"/>
+		<arg form="imp" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+	</verb>
+</text>
+<text author="Isokrat" work="Demoniku" locus="18" sentence="8">
+	<verb n="1" form="διαφύλαττε" lemma="διαφυλάττω" morf="v2spma---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="ταῦτα" lemma="οὗτος" morf="p-p---na-" type="pron" synt="OBJ" sem="___"/>
+		<arg form="ταῖς μελέταις" lemma="μελέτη" morf="n-p---fd-" type="subs" synt="ADV" sem="___"/>
+		<arg form="imp" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+	</verb>
+	<verb n="2" form="προσλάμβανε" lemma="προσλαμβάνω" morf="v2spma---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="imp" lemma="ταῦτα" morf="p-p---na-" type="pron" synt="OBJ" sem="___"/>
+		<arg form="ταῖς ἐπιστήμαις" lemma="ἐπιστήμη" morf="n-p---fd-" type="subs" synt="ADV" sem="___"/>
+		<arg form="imp" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+	</verb>
+	<verb n="3" form="ἐπίστασαι" lemma="ἐπίσταμαι" morf="v2spie---" lex="___" dist="sub" expl="fin" val="2">
+		<arg form="Ἃ" lemma="ὃς" morf="p-p---na-" type="pron" synt="OBJ" sem="___"/>
+		<arg form="μὲν" lemma="μέν" morf="c--------" type="clause" synt="COORD" sem="___"/>
+		<arg form="imp" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+	</verb>
+	<verb n="4" form="μεμάθηκας" lemma="μανθάνω" morf="v2sria---" lex="___" dist="sub" expl="fin" val="2">
+		<arg form="ἃ" lemma="ὃς" morf="p-p---na-" type="pron" synt="OBJ" sem="___"/>
+		<arg form="μὴ" lemma="μή" morf="c--------" type="clause" synt="AuxY" sem="___"/>
+		<arg form="imp" lemma="σύ" morf="p-s---mn-" type="pron" synt="SBJ" sem="___"/>
+		<arg form="δὲ" lemma="δέ" morf="c--------" type="clause" synt="COORD" sem="___"/>
+	</verb>
+	<verb n="5" form="imp" lemma="εἰμί" morf="v3spia---" lex="___" dist="main" expl="fin" val="2">
+		<arg form="ὁμοίως" lemma="ὁμοίως" morf="c--------" type="clause" synt="ADV" sem="___"/>
+		<arg form="γὰρ" lemma="γάρ" morf="c--------" type="clause" synt="COORD" sem="___"/>
+		<arg form="αἰσχρὸν" lemma="αἰσχρός" morf="a-s---nn-" type="adj" synt="PNOM" sem="___"/>
+		<arg form="μαθεῖν" lemma="μανθάνω" morf="v--a-a---" type="ACI" synt="OBJ" sem="___"/>
+		<arg form="λαβεῖν" lemma="λαμβάνω" morf="v--a-a---" type="ACI" synt="OBJ" sem="___"/>
+	</verb>
+	<verb n="6" form="μαθεῖν" lemma="μανθάνω" morf="v--a-a---" lex="___" dist="sub" expl="inf" val="2">
+		<arg form="μὴ" lemma="μή" morf="c--------" type="clause" synt="ADV" sem="___"/>
+		<arg form="ἀκούσαντα" lemma="ἀκούω" morf="v-sa-ama-" type="ptc" synt="SBJ" sem="___"/>
+		<arg form="λόγον" lemma="λόγος" morf="n-s---ma-" type="subs" synt="OBJ" sem="___"/>
+	</verb>
+	<verb n="7" form="λαβεῖν" lemma="λαμβάνω" morf="v--a-a---" lex="___" dist="sub" expl="inf" val="2">
+		<arg form="μὴ" lemma="μή" morf="c--------" type="clause" synt="ADV" sem="___"/>
+		<arg form="διδόμενον" lemma="δίδωμι" morf="v-sp-ema-" type="ptc" synt="SBJ" sem="___"/>
+		<arg form="τι" lemma="τίς" morf="p-s---na-" type="pron" synt="OBJ" sem="___"/>
+	</verb>
+</text>
